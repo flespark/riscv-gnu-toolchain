@@ -16,7 +16,7 @@
 	branch = riscv-dejagnu-1.6
 [submodule "riscv-newlib"]
 	path = riscv-newlib
-	url = git://sourceware.org/git/newlib-cygwin.git
+	url = https://github.com/mirror/newlib-cygwin.git
 	branch = master
 [submodule "riscv-gdb"]
 	path = riscv-gdb
@@ -24,4 +24,4 @@
 	branch = fsf-gdb-10.1-with-sim
 [submodule "qemu"]
 	path = qemu
-	url = https://git.qemu.org/git/qemu.git
+	url = https://github.com/qemu/qemu.git
